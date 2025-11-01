@@ -9,6 +9,7 @@ LeetCode
 |0027|[Remove Element](https://leetcode.com/problems/remove-element)|[Python](./algorithms/array_string/0027_remove_element.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii)|[Python](./algorithms/array_string/0045_jump_game_ii.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
 |0055|[Jump Game](https://leetcode.com/problems/jump-game)|[Python](./algorithms/array_string/0055_jump_game.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
+|0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[Python](./algorithms/array_string/0080_remove_duplicates_from_sorted_array_ii.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Python](./algorithms/array_string/0088_merge_sorted_array.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Python](./algorithms/array_string/0121_best_time_to_buy_and_sell_stock.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[Python](./algorithms/array_string/0122_best_time_to_buy_and_sell_stock_ii.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
