@@ -4,6 +4,7 @@ LeetCode
 |---| ----- | -------- | --------- | ---------- |
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Python](./algorithms/sliding_window/0003_longest_substring_without_repeating_characters.py)|Sliding Window|![](https://img.shields.io/badge/Medium-orange)|
 |0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|[Python](./algorithms/two_pointers/0011_container_with_most_water.py)|Two Pointers|![](https://img.shields.io/badge/Easy-green)|
+|0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Python](./algorithms/array_string/0013_roman_to_integer.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0015|[3Sum](https://leetcode.com/problems/3sum)|[Python](./algorithms/two_pointers/0015_3sum.py)|Two Pointers|![](https://img.shields.io/badge/Medium-orange)|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Python](./algorithms/array_string/0026_remove_duplicates_from_sorted_array.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element)|[Python](./algorithms/array_string/0027_remove_element.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
