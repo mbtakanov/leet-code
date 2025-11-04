@@ -6,6 +6,7 @@ LeetCode
 |0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|[Python](./algorithms/two_pointers/0011_container_with_most_water.py)|Two Pointers|![](https://img.shields.io/badge/Easy-green)|
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|[Python](./algorithms/array_string/0012_integer_to_roman.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Python](./algorithms/array_string/0013_roman_to_integer.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
+|0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Python](./algorithms/array_string/0014_longest_common_prefix.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0015|[3Sum](https://leetcode.com/problems/3sum)|[Python](./algorithms/two_pointers/0015_3sum.py)|Two Pointers|![](https://img.shields.io/badge/Medium-orange)|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Python](./algorithms/array_string/0026_remove_duplicates_from_sorted_array.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element)|[Python](./algorithms/array_string/0027_remove_element.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
