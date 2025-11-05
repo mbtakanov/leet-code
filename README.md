@@ -10,6 +10,7 @@ LeetCode
 |0015|[3Sum](https://leetcode.com/problems/3sum)|[Python](./algorithms/two_pointers/0015_3sum.py)|Two Pointers|![](https://img.shields.io/badge/Medium-orange)|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Python](./algorithms/array_string/0026_remove_duplicates_from_sorted_array.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element)|[Python](./algorithms/array_string/0027_remove_element.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
+|0028|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)|[Python](./algorithms/array_string/0028_find_the_index_of_the_first_occurrence_in_a_string.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii)|[Python](./algorithms/array_string/0045_jump_game_ii.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
 |0055|[Jump Game](https://leetcode.com/problems/jump-game)|[Python](./algorithms/array_string/0055_jump_game.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Python](./algorithms/array_string/0058_length_of_last_word.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
