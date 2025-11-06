@@ -25,5 +25,6 @@ LeetCode
 |0169|[Majority Element](https://leetcode.com/problems/majority-element)|[Python](./algorithms/array_string/0169_majority_element.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|[Python](./algorithms/sliding_window/0209_minimum_size_subarray_sum.py)|Sliding Window|![](https://img.shields.io/badge/Medium-orange)|
 |0274|[H-Index](https://leetcode.com/problems/h-index)|[Python](./algorithms/array_string/0274_h_index.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
-|0380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)|[Python](./algorithms/array_string/0380._insert_delete_get_random_o(1).py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
+|0380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1)|[Python](./algorithms/array_string/0380_insert_delete_get_random_o(1).py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
+|0383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[Python](./algorithms/hashmap/0383_ransom_note.py)|Hashmap|![](https://img.shields.io/badge/Easy-green)|
 |0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Python](./algorithms/two_pointers/0392_is_subsequence.py)|Two Pointers|![](https://img.shields.io/badge/Easy-green)|
