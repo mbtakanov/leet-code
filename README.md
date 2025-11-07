@@ -3,6 +3,7 @@ LeetCode
 | # | Title | Solution | Algorithm | Difficulty |
 |---| ----- | -------- | --------- | ---------- |
 |0001|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](./algorithms/hashmap/0001_two_sum.py)|Hashmap|![](https://img.shields.io/badge/Easy-green)|
+|0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Python](./algorithms/linked_list/0002_add_two_numbers.py)|Linked List|![](https://img.shields.io/badge/Medium-orange)|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Python](./algorithms/sliding_window/0003_longest_substring_without_repeating_characters.py)|Sliding Window|![](https://img.shields.io/badge/Medium-orange)|
 |0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|[Python](./algorithms/two_pointers/0011_container_with_most_water.py)|Two Pointers|![](https://img.shields.io/badge/Easy-green)|
 |0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|[Python](./algorithms/array_string/0012_integer_to_roman.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
