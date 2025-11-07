@@ -23,6 +23,7 @@ LeetCode
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)|[Python](./algorithms/array_string/0151_reverse_words_in_a_string.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
 |0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[Python](./algorithms/two_pointers/0167_two_sum_ii_input_array_is_sorted.py)|Two Pointers|![](https://img.shields.io/badge/Medium-orange)|
 |0169|[Majority Element](https://leetcode.com/problems/majority-element)|[Python](./algorithms/array_string/0169_majority_element.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
+|0205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Python](./algorithms/hashmap/0205_isomorphic_strings.py)|Hashmap|![](https://img.shields.io/badge/Easy-green)|
 |0209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|[Python](./algorithms/sliding_window/0209_minimum_size_subarray_sum.py)|Sliding Window|![](https://img.shields.io/badge/Medium-orange)|
 |0274|[H-Index](https://leetcode.com/problems/h-index)|[Python](./algorithms/array_string/0274_h_index.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern)|[Python](./algorithms/hashmap/0290_word_pattern.py)|Hashmap|![](https://img.shields.io/badge/Easy-green)|
