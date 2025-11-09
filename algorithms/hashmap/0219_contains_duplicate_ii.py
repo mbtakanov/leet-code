@@ -12,13 +12,14 @@ Output: true
 Example 3:
 Input: nums = [1,2,3,1,2,3], k = 2
 Output: false
- 
+
 
 Constraints:
 1 <= nums.length <= 105
 -109 <= nums[i] <= 109
 0 <= k <= 105
 """
+
 from typing import List
 
 
