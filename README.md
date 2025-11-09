@@ -28,6 +28,7 @@ LeetCode
 |0202|[Happy Number](https://leetcode.com/problems/happy-number)|[Python](./algorithms/hashmap/0202_happy_number.py)|Hashmap|![](https://img.shields.io/badge/Easy-green)|
 |0205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Python](./algorithms/hashmap/0205_isomorphic_strings.py)|Hashmap|![](https://img.shields.io/badge/Easy-green)|
 |0209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|[Python](./algorithms/sliding_window/0209_minimum_size_subarray_sum.py)|Sliding Window|![](https://img.shields.io/badge/Medium-orange)|
+|0219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Python](./algorithms/hashmap/0219_contains_duplicate_ii.py)|Hashmap|![](https://img.shields.io/badge/Easy-green)|
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|[Python](./algorithms/hashmap/0242_valid_anagram.py)|Hashmap|![](https://img.shields.io/badge/Easy-green)|
 |0274|[H-Index](https://leetcode.com/problems/h-index)|[Python](./algorithms/array_string/0274_h_index.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern)|[Python](./algorithms/hashmap/0290_word_pattern.py)|Hashmap|![](https://img.shields.io/badge/Easy-green)|
