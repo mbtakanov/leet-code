@@ -5,7 +5,7 @@ Return the smallest sorted list of ranges that cover all the numbers in the arra
 Each range [a,b] in the list should be output as:
 "a->b" if a != b
 "a" if a == b
- 
+
 
 Example 1:
 Input: nums = [0,1,2,4,5,7]
@@ -30,6 +30,7 @@ Constraints:
 All the values of nums are unique.
 nums is sorted in ascending order.
 """
+
 from typing import List
 
 
@@ -37,10 +38,10 @@ def summaryRanges(nums: List[int]) -> List[str]:
     # Time O(n), Space O(1)
     if not nums:
         return []
-    
+
     ranges = []
     start = nums[0]
-    
+
     for i in range(len(nums)):
         if i == len(nums) - 1 or nums[i] + 1 != nums[i + 1]:
             if start == nums[i]:
@@ -49,5 +50,4 @@ def summaryRanges(nums: List[int]) -> List[str]:
                 ranges.append(f"{start}->{nums[i]}")
             if i < len(nums) - 1:
                 start = nums[i + 1]
-    
     return ranges

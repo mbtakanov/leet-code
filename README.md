@@ -10,6 +10,7 @@ LeetCode
 |0013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Python](./algorithms/array_string/0013_roman_to_integer.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Python](./algorithms/array_string/0014_longest_common_prefix.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0015|[3Sum](https://leetcode.com/problems/3sum)|[Python](./algorithms/two_pointers/0015_3sum.py)|Two Pointers|![](https://img.shields.io/badge/Medium-orange)|
+|0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Python](./algorithms/stack/0020_valid_parentheses.py)|Stack|![](https://img.shields.io/badge/Easy-green)|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Python](./algorithms/array_string/0026_remove_duplicates_from_sorted_array.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element)|[Python](./algorithms/array_string/0027_remove_element.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0028|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)|[Python](./algorithms/array_string/0028_find_the_index_of_the_first_occurrence_in_a_string.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
