@@ -22,6 +22,7 @@ LeetCode
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Python](./algorithms/array_string/0121_best_time_to_buy_and_sell_stock.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[Python](./algorithms/array_string/0122_best_time_to_buy_and_sell_stock_ii.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Python](./algorithms/two_pointers/0125_valid_palindrome.py)|Two Pointers|![](https://img.shields.io/badge/Easy-green)|
+|0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Python](./algorithms/linked_list/0141_linked_list_cycle.py)|Linked List|![](https://img.shields.io/badge/Easy-green)|
 |0146|[LRU Cache](https://leetcode.com/problems/lru-cache)|[Python](./algorithms/linked_list/0146_lru_cache.py)|Linked List|![](https://img.shields.io/badge/Medium-orange)|
 |0151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)|[Python](./algorithms/array_string/0151_reverse_words_in_a_string.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
 |0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[Python](./algorithms/two_pointers/0167_two_sum_ii_input_array_is_sorted.py)|Two Pointers|![](https://img.shields.io/badge/Medium-orange)|
