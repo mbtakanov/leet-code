@@ -20,6 +20,7 @@ LeetCode
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Python](./algorithms/array_string/0058_length_of_last_word.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[Python](./algorithms/array_string/0080_remove_duplicates_from_sorted_array_ii.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Python](./algorithms/array_string/0088_merge_sorted_array.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
+|0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)|[Python](./algorithms/linked_list/0092_reverse_linked_list_ii.py)|Linked List|![](https://img.shields.io/badge/Medium-orange)|
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Python](./algorithms/array_string/0121_best_time_to_buy_and_sell_stock.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[Python](./algorithms/array_string/0122_best_time_to_buy_and_sell_stock_ii.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
 |0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Python](./algorithms/two_pointers/0125_valid_palindrome.py)|Two Pointers|![](https://img.shields.io/badge/Easy-green)|
