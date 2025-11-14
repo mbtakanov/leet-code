@@ -16,6 +16,7 @@ LeetCode
 |0027|[Remove Element](https://leetcode.com/problems/remove-element)|[Python](./algorithms/array_string/0027_remove_element.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0028|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)|[Python](./algorithms/array_string/0028_find_the_index_of_the_first_occurrence_in_a_string.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0045|[Jump Game II](https://leetcode.com/problems/jump-game-ii)|[Python](./algorithms/array_string/0045_jump_game_ii.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
+|0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[Python](./algorithms/hashmap/0049_group_anagrams.py)|Hashmap|![](https://img.shields.io/badge/Medium-orange)|
 |0055|[Jump Game](https://leetcode.com/problems/jump-game)|[Python](./algorithms/array_string/0055_jump_game.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Python](./algorithms/array_string/0058_length_of_last_word.py)|Array & String|![](https://img.shields.io/badge/Easy-green)|
 |0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[Python](./algorithms/array_string/0080_remove_duplicates_from_sorted_array_ii.py)|Array & String|![](https://img.shields.io/badge/Medium-orange)|
